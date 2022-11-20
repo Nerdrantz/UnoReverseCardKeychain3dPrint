@@ -28,4 +28,6 @@ The parts are intended to be painted as the real cards, and then have the recess
 painting to seal everything. Some people may like having the 3d feel, and wish to not seal the spaces. Feel free to build 
 how you would like. 
 
+NOTE: Turn on ironing in your slicer to make sure all the top faces are smooth for painting.
+
 I'm releasing these files, as is, under MIT license. Enjoy!
